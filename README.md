@@ -30,7 +30,6 @@ Download the environmental file : environment.yml
 ```
 wget https://raw.githubusercontent.com/HaoLuo-leo/HostPurge/main/environment.yml
 ```
-
 ### Install with pip
 
 ```
